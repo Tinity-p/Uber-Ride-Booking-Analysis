@@ -43,3 +43,6 @@ This project analyses Uber ride booking data to understand booking trends, ride 
 
 ## Conclusion
 This project demonstrates the use of SQL, Python, and Power BI to analyse ride booking data and present useful business insights through an interactive dashboard.
+
+## Dashboard Preview
+![Uber Ride Booking Analysis Dashboard](Uber_Dashboard.png)
